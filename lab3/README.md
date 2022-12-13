@@ -10,6 +10,6 @@
 
 Звіт у [Google Docs](https://docs.google.com/document/d/10j8XDW4pWMZjxgts1cYEMhI-oa5pJ73TAf35gIoUJTk/edit?usp=sharing)
 
-##Варіант:
-	Види індексів - GIN, BRIN
-	Умови для тригера - after insert, update
+Варіант: 
+	Види індексів - GIN, BRIN;
+	Умови для тригера - after insert, update.
